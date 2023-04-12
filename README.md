@@ -14,6 +14,6 @@
 
 ### Lighthouse Accessibility Report Score
 
-* Provide a screenshot of your score after running a Lighthouse Accessibility report.
+![accessibility score](lightshousething.png)
 
 ### Reflections and Comments
