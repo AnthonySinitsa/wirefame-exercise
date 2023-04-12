@@ -50,7 +50,6 @@ li a:hover {
 }
 
 main > section {
-  background-color: gray;
   width: 960px;
   display: flex;
   justify-content: space-between;
